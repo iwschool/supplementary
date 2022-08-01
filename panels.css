@@ -1,4 +1,5 @@
 h1 {color: green}
+.kerven p {color: green}
 .panel {text-align: center; padding: 70px 20px}
 .panel, .panel * {box-sizing: border-box}
 .panel a {transition: all .3s ease-in-out}
